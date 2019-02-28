@@ -1,0 +1,10 @@
+SHORTCUTS:
+
+W -> activa el display de wire-frame para la figura seleccionada
+P -> activa el display de puntos para la figura seleccionada
+F -> activa el display de triangulos rellenos para la figura seleccionada
+L -> permite cargar modelos
+
+Notas: 
+
+Las luces estan ubicadas en el origen y se pueden activar/desactivar y cambiar sus propiedades, mover, pero no son visibles mediante esferas.

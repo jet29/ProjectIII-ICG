@@ -1,0 +1,15 @@
+﻿  CObj.cpp
+c:\users\alchenthecat\documents\project iii 2\project iii\despliegue3dplantilla-master\src\cobj.cpp(128): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  COff.cpp
+c:\users\alchenthecat\documents\project iii 2\project iii\despliegue3dplantilla-master\src\coff.cpp(112): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Main.cpp
+c:\users\alchenthecat\documents\project iii 2\project iii\despliegue3dplantilla-master\src\main.cpp(36): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\alchenthecat\documents\project iii 2\project iii\despliegue3dplantilla-master\src\main.cpp(41): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+c:\users\alchenthecat\documents\project iii 2\project iii\despliegue3dplantilla-master\src\main.cpp(352): warning C4244: 'inicializando': conversión de 'glm::detail::tquat<float>::size_type' a 'float'; posible pérdida de datos
+  Model.cpp
+  SOff.cpp
+  Triangle.cpp
+  UserInterface.cpp
+  LoadShader.cpp
+  Generando código...
+LINK : fatal error LNK1104: no se puede abrir el archivo 'AntTweakBar64.lib'
